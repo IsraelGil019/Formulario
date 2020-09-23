@@ -11,4 +11,6 @@ Instrucciones:
 
 
 ENTREGAR ENLACE DE GITHUB CON LOS COLABORADORES (MIEMBROS DE EQUIPO) 
+Comprobamos los pasos a seguir
+
 
