@@ -10,8 +10,17 @@ namespace Formulario
             int Age;
             Console.WriteLine("What´s your name?");
             Name = Console.ReadLine();
+            Console.WriteLine("/////////////////////////////////////");
             Console.WriteLine("How old are you?");
             Age = int.Parse(Console.ReadLine());
+            Console.WriteLine("/////////////////////////////////////");
+            Console.WriteLine("What´s your e-mail address?");
+            Email = Console.ReadLine();
+            Console.WriteLine("/////////////////////////////////////");
+            Console.WriteLine("What´s your ocupation or job?");
+            Email = Console.ReadLine();
+            Console.WriteLine("/////////////////////////////////////");
+
             //age=Convert.Toint32(Console.ReadLine();
 
             Console.WriteLine("Your name is: {0}", Name);
@@ -22,7 +31,7 @@ namespace Formulario
             }
             else
             {
-                Console.WriteLine("Registering S UCCESFULLY... ")
+                Console.WriteLine("Registering SUCCESFULLY... ")
             }
             //hello 
         }
