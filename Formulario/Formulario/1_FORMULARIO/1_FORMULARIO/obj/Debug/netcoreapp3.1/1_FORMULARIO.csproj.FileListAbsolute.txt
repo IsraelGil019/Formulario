@@ -1,0 +1,12 @@
+/Users/mac/Documents/Formulario/Formulario/Formulario/1_FORMULARIO/1_FORMULARIO/obj/Debug/netcoreapp3.1/1_FORMULARIO.csprojAssemblyReference.cache
+/Users/mac/Documents/Formulario/Formulario/Formulario/1_FORMULARIO/1_FORMULARIO/obj/Debug/netcoreapp3.1/1_FORMULARIO.AssemblyInfoInputs.cache
+/Users/mac/Documents/Formulario/Formulario/Formulario/1_FORMULARIO/1_FORMULARIO/obj/Debug/netcoreapp3.1/1_FORMULARIO.AssemblyInfo.cs
+/Users/mac/Documents/Formulario/Formulario/Formulario/1_FORMULARIO/1_FORMULARIO/obj/Debug/netcoreapp3.1/1_FORMULARIO.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Formulario/Formulario/Formulario/1_FORMULARIO/1_FORMULARIO/bin/Debug/netcoreapp3.1/1_FORMULARIO.deps.json
+/Users/mac/Documents/Formulario/Formulario/Formulario/1_FORMULARIO/1_FORMULARIO/bin/Debug/netcoreapp3.1/1_FORMULARIO.runtimeconfig.json
+/Users/mac/Documents/Formulario/Formulario/Formulario/1_FORMULARIO/1_FORMULARIO/bin/Debug/netcoreapp3.1/1_FORMULARIO.runtimeconfig.dev.json
+/Users/mac/Documents/Formulario/Formulario/Formulario/1_FORMULARIO/1_FORMULARIO/bin/Debug/netcoreapp3.1/1_FORMULARIO.dll
+/Users/mac/Documents/Formulario/Formulario/Formulario/1_FORMULARIO/1_FORMULARIO/bin/Debug/netcoreapp3.1/1_FORMULARIO.pdb
+/Users/mac/Documents/Formulario/Formulario/Formulario/1_FORMULARIO/1_FORMULARIO/obj/Debug/netcoreapp3.1/1_FORMULARIO.dll
+/Users/mac/Documents/Formulario/Formulario/Formulario/1_FORMULARIO/1_FORMULARIO/obj/Debug/netcoreapp3.1/1_FORMULARIO.pdb
+/Users/mac/Documents/Formulario/Formulario/Formulario/1_FORMULARIO/1_FORMULARIO/obj/Debug/netcoreapp3.1/1_FORMULARIO.genruntimeconfig.cache

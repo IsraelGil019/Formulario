@@ -8,18 +8,32 @@ namespace Formulario
         {
             String Name, Number, Email, Job;
             int Age;
-            Console.WriteLine("What´s your name?");
+
+            Console.WriteLine("WELCOME TO BIOMEDIX \n");
+            Thread.Sleep(TimeSpan.FromSeconds(4));
+
+            Console.WriteLine("What´s your FULL NAME ?");
             Name = Console.ReadLine();
-            Console.WriteLine("/////////////////////////////////////");
-            Console.WriteLine("How old are you?");
-            Age = int.Parse(Console.ReadLine());
-            Console.WriteLine("/////////////////////////////////////");
+            Console.WriteLine("\n")
+
             Console.WriteLine("What´s your e-mail address?");
             Email = Console.ReadLine();
-            Console.WriteLine("/////////////////////////////////////");
+
+            Console.WriteLine("\n");
+
+            Console.WriteLine("How old are you?");
+            Age = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("\n")
+
+            
+
+            Console.WriteLine("\n");
+
             Console.WriteLine("What´s your ocupation or job?");
-            Email = Console.ReadLine();
-            Console.WriteLine("/////////////////////////////////////");
+
+            Job = Console.ReadLine();
+            Console.WriteLine("\n");
 
             //age=Convert.Toint32(Console.ReadLine();
 
@@ -33,7 +47,8 @@ namespace Formulario
             {
                 Console.WriteLine("Registering SUCCESFULLY... ")
             }
-            //hello 
         }
     }
 }
+
+
